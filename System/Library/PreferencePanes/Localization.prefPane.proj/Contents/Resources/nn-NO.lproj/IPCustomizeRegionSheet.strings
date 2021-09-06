@@ -9,13 +9,13 @@
 	<key>1040.title</key>
 	<string>Valuta:</string>
 	<key>105.title</key>
-	<string>Skilletegn for tall:</string>
+	<string>Skiljeteikn for tal:</string>
 	<key>1451.title</key>
-	<string>Gjenopprett standardinnstillinger</string>
+	<string>Gjenopprett standardinnstillingar</string>
 	<key>1486.title</key>
 	<string>OtherViews</string>
 	<key>1823.title</key>
-	<string>Skriv inn tekst og flytt datoelementer for å opprette et tilpasset format.</string>
+	<string>Skriv inn tekst og flytt datoelement for å oppretta eit tilpassa format.</string>
 	<key>1857.title</key>
 	<string>Kort:</string>
 	<key>1863.title</key>
@@ -25,33 +25,33 @@
 	<key>1875.title</key>
 	<string>Fullstendig:</string>
 	<key>1884.title</key>
-	<string>Datoelementer</string>
+	<string>Datoelement</string>
 	<key>1892.title</key>
-	<string>Ukedag</string>
+	<string>Vekedag</string>
 	<key>1900.title</key>
-	<string>Lø.</string>
+	<string>La.</string>
 	<key>1906.title</key>
 	<string>Dag i året</string>
 	<key>1965.title</key>
 	<string>5</string>
 	<key>1984.title</key>
-	<string>Uke i året</string>
+	<string>Veke i året</string>
 	<key>1985.title</key>
 	<string>1</string>
 	<key>1987.title</key>
 	<string>Januar</string>
 	<key>1988.title</key>
-	<string>Måned</string>
+	<string>Månad</string>
 	<key>2017.title</key>
-	<string>Uke i måneden</string>
+	<string>Veke i månaden</string>
 	<key>2018.title</key>
 	<string>1</string>
 	<key>2019.title</key>
 	<string>5</string>
 	<key>2020.title</key>
-	<string>Dag i måneden</string>
+	<string>Dag i månaden</string>
 	<key>2052.title</key>
-	<string>Ukedag i måneden</string>
+	<string>Vekedag i månaden</string>
 	<key>2053.title</key>
 	<string>1</string>
 	<key>2054.title</key>
@@ -67,7 +67,7 @@
 	<key>2079.title</key>
 	<string>Æra</string>
 	<key>2259.title</key>
-	<string>Tidselementer</string>
+	<string>Tidselement</string>
 	<key>2325.title</key>
 	<string>Time</string>
 	<key>2327.title</key>
@@ -87,7 +87,7 @@
 	<key>2334.title</key>
 	<string>000</string>
 	<key>2342.title</key>
-	<string>Millisekunder</string>
+	<string>Millisekundar</string>
 	<key>2343.title</key>
 	<string>Tidssone</string>
 	<key>2344.title</key>
@@ -101,7 +101,7 @@
 	<key>2354.title</key>
 	<string>Kort:</string>
 	<key>2355.title</key>
-	<string>Skriv inn tekst og flytt tidselementer for å opprette et tilpasset format.</string>
+	<string>Skriv inn tekst og flytt datoelement for å oppretta eit tilpassa format.</string>
 	<key>2605.title</key>
 	<string>Før 12:</string>
 	<key>2611.title</key>
@@ -115,33 +115,33 @@
 	<key>413.title</key>
 	<string>OtherViews</string>
 	<key>416.title</key>
-	<string>Måleenheter:</string>
+	<string>Måleininger:</string>
 	<key>4Kd-Ie-zK8.title</key>
-	<string>Lørdag 5. januar 2013 kl. 15.45.56 GMT–11</string>
+	<string>Laurdag 5. januar 2013 kl. 15.45.56 GMT–11</string>
 	<key>713.label</key>
 	<string>Generelt</string>
 	<key>714.label</key>
-	<string>Datoer</string>
+	<string>Datoar</string>
 	<key>723.label</key>
 	<string>Klokkeslett</string>
 	<key>875.title</key>
-	<string>Tusener:</string>
+	<string>Tusen:</string>
 	<key>879.title</key>
 	<string>Desimal:</string>
 	<key>9.title</key>
 	<string>Avbryt</string>
 	<key>945.ibExternalAccessibilityDescription</key>
-	<string>Desimalskilletegn for tall</string>
+	<string>Desimalskiljeteikn for tall</string>
 	<key>946.title</key>
 	<string>.</string>
 	<key>972.ibExternalAccessibilityDescription</key>
-	<string>Tusenskilletegn for tall</string>
+	<string>Tusenskiljeteikn for tall</string>
 	<key>974.title</key>
 	<string>,</string>
 	<key>992.ibExternalAccessibilityDescription</key>
-	<string>Desimalskilletegn for valuta</string>
+	<string>Desimalskiljeteikn for valuta</string>
 	<key>993.ibExternalAccessibilityDescription</key>
-	<string>Tusenskilletegn for valuta</string>
+	<string>Tusenskiljeteikn for valuta</string>
 	<key>994.title</key>
 	<string>,</string>
 	<key>997.title</key>
@@ -149,7 +149,7 @@
 	<key>998.title</key>
 	<string>Desimal:</string>
 	<key>999.title</key>
-	<string>Tusener:</string>
+	<string>Tusen:</string>
 	<key>adS-UV-do7.title</key>
 	<string>07.01.12 kl. 00.34</string>
 	<key>aqO-0s-1ym.title</key>
