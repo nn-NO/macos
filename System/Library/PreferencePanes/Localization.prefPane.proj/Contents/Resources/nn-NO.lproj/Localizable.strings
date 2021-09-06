@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ doesn’t support additional languages.</key>
+	<string>%@ støtter ikke ytterligere språk.</string>
+	<key>24-Hour Time</key>
+	<string>%@-timersklokke</string>
+	<key>Add Input Source</key>
+	<string>Legg til inndatakilde</string>
+	<key>Add Input Sources</key>
+	<string>Legg til %@-inndatakilder</string>
+	<key>Add a preferred language</key>
+	<string>Legg til et foretrukket språk</string>
+	<key>AltLanguageRegionTemplate</key>
+	<string>%@ – %@</string>
+	<key>Celsius</key>
+	<string>°C – Celsius</string>
+	<key>CollationTemplate</key>
+	<string>%@ (%@)</string>
+	<key>CurrencyTemplate</key>
+	<string>%@ (%@)</string>
+	<key>Custom</key>
+	<string>Tilpasset</string>
+	<key>CustomRegionTemplate</key>
+	<string>%@ (tilpasset)</string>
+	<key>Fahrenheit</key>
+	<string>℉ – Fahrenheit</string>
+	<key>ForceCapitalizationInFirstDayOfWeekMenu</key>
+	<string>1</string>
+	<key>InstructionTemplate</key>
+	<string>Velg inndatakilder du vil legge til:</string>
+	<key>Keyboard layout not available</key>
+	<string>Tastaturoppsett ikke tilgjengelig</string>
+	<key>MakePrimaryCancelButton</key>
+	<string>Bruk %@</string>
+	<key>MakePrimaryDefaultButton</key>
+	<string>Bruk %@</string>
+	<key>MakePrimaryInfo</key>
+	<string>Hvis du endrer hovedspråket ditt, vil kanskje ikke alle programmer bruke det nye språket før maskinen har blitt startet på nytt.</string>
+	<key>MakePrimaryMessage</key>
+	<string>Vil du bruke %@ som hovedspråk?</string>
+	<key>Metric</key>
+	<string>Metrisk</string>
+	<key>Multiple input sources are selected</key>
+	<string>Du har valgt flere inndatakilder</string>
+	<key>No input source selected</key>
+	<string>Ingen inndatakilde valgt</string>
+	<key>None</key>
+	<string>Ingen</string>
+	<key>QualifiedNameDelimiter</key>
+	<string>, </string>
+	<key>QualifiedNameTemplate</key>
+	<string>%@ (%@)</string>
+	<key>Recents</key>
+	<string>Tidligere</string>
+	<key>RelaunchNeededInfo</key>
+	<string>%@ må startes på nytt for at det nye språket skal tas i bruk.</string>
+	<key>RelaunchNeededLaterButton</key>
+	<string>Ikke start på nytt</string>
+	<key>RelaunchNeededMessage</key>
+	<string>Språkinnstillingen for %@ er endret. Vil du starte programmet på nytt nå?</string>
+	<key>RelaunchNeededRelaunchButton</key>
+	<string>Start på nytt nå</string>
+	<key>Remove the selected preferred language</key>
+	<string>Fjern det markerte foretrukne språket</string>
+	<key>RestartNeededCancelButton</key>
+	<string>Avbryt</string>
+	<key>RestartNeededInfo</key>
+	<string>Noen programmer vil kanskje ikke bruke det nye språket før du har startet maskinen på nytt.</string>
+	<key>RestartNeededLaterButton</key>
+	<string>Ikke start på nytt</string>
+	<key>RestartNeededMessage</key>
+	<string>Hovedspråket er endret. Vil du starte maskinen på nytt nå?</string>
+	<key>RestartNeededRestartButton</key>
+	<string>Start på nytt nå</string>
+	<key>Space</key>
+	<string>Mellomrom</string>
+	<key>StandardCollation</key>
+	<string>Universell</string>
+	<key>System Default</key>
+	<string>Systemstandard</string>
+	<key>UK</key>
+	<string>Britisk</string>
+	<key>US</key>
+	<string>Amerikansk</string>
+	<key>buddhist</key>
+	<string>Buddhistisk</string>
+	<key>coptic</key>
+	<string>Koptisk</string>
+	<key>ethiopic</key>
+	<string>Etiopisk</string>
+	<key>ethiopic-amete-alem</key>
+	<string>Etiopisk (Amete Alem)</string>
+	<key>gregorian</key>
+	<string>Gregoriansk</string>
+	<key>hebrew</key>
+	<string>Hebraisk</string>
+	<key>indian</key>
+	<string>Indisk, nasjonal</string>
+	<key>islamic</key>
+	<string>Islamsk (astronomisk)</string>
+	<key>islamic-civil</key>
+	<string>Islamsk (tabell, start fredag)</string>
+	<key>islamic-tbla</key>
+	<string>Islamsk (tabell, start torsdag)</string>
+	<key>islamic-umalqura</key>
+	<string>Islamsk (Umm al-Qura)</string>
+	<key>iso8601</key>
+	<string>ISO 8601</string>
+	<key>japanese</key>
+	<string>Japansk</string>
+	<key>persian</key>
+	<string>Persisk</string>
+	<key>roc</key>
+	<string>Minguo</string>
+</dict>
+</plist>
