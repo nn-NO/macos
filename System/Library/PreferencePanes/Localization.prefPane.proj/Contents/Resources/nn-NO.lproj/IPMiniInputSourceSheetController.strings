@@ -3,20 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>1.title</key>
-	<string>Legg til inndatakilde</string>
+	<string>Legg til inndatakjelde</string>
 	<key>120.ibExternalAccessibilityDescription</key>
-	<string>Inndatakilder for valgt språk</string>
+	<string>Inndatakjelder for valt språk</string>
 	<key>125.title</key>
 	<string>Text Cell</string>
 	<key>137.title</key>
-	<string>Lokalisert IM-navn</string>
+	<string>Lokalisert IM-namn</string>
 	<key>204.title</key>
-	<string>Tastaturoppsett ikke tilgjengelig</string>
+	<string>Tastaturoppsett ikkje tilgjengeleg</string>
 	<key>23.title</key>
-	<string>Legg til inndatakilder</string>
+	<string>Legg til inndatakjelder</string>
 	<key>27.title</key>
-	<string>Ikke nå</string>
+	<string>Ikkje no</string>
 	<key>6.title</key>
-	<string>Velg inndatakilder du vil legge til:</string>
+	<string>Vel inndatakjelder du vil legg til:</string>
 </dict>
 </plist>
