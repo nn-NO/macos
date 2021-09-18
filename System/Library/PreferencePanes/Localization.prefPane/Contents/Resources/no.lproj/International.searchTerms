@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Language</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>språk, tilpasse, internasjonalt, engelsk, japansk, fransk, tysk, spansk, italiensk, portugisisk, nederlandsk, svensk, finsk, norsk, bokmål, dansk, russisk, polsk, kinesisk, forenklet, tradisjonell, koreansk, afrikaans, australsk, aymara, aserbajdsjansk, indonesisk, malayisk, bislama, bosnisk, bretonsk, britisk, canadisk, katalansk, tsjekkisk, korsikansk, walisisk, Sveits, navajo, estisk, esperanto, baskisk, tongansk, færøysk, sveitsisk, irsk, gælisk, mansk, skotsk, galisisk, guarani, kroatisk, hawaiisk, ido, zulu, islandsk, grønlandsk, kornisk, kinyarwanda, swahili, haitisk, latinsk, latvisk, luxembourgsk, litauisk, ungarsk, gassisk, maltesisk, maori, neapolitansk, nynorsk, oksitansk, usbekisk, oromo, østerriksk, Brasil, quechua, rumensk, kirundi, samisk, albansk, siciliansk, slovakisk, slovensk, somalisk, tagalog, tatarisk, klingon, tyrkisk, turkmensk, USA, vietnamesisk, flamsk, vallonsk, gresk, aserbajdsjansk, hviterussisk, bulgarsk, kirgisisk, kasakhisk, makedonsk, mongolsk, serbisk, tadsjikisk, ukrainsk, georgisk, armensk, jiddisk, hebraisk, urdu, pashto, arabisk, persisk, konkani, nepalsk, marathi, sanskrit, hindi, panjabi, gujarati, tamil, thai, tibetansk, dzongkha, cherokee, inuktitut, uighur, tilpasse, tilpassing, sortering</string>
+				<key>title</key>
+				<string>Språkvalg og prioritet</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Region</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>regionalt, internasjonalt, mål, enheter, stiler, metrisk, kalender, kalendere, gregoriansk, buddhistisk, hebraisk, islamsk, japansk, kinesisk, koptisk, etiopisk, indisk, persisk, republikken Kina, tilpass, tilpasset, tilpasse, tilpassing, lokalitet</string>
+				<key>title</key>
+				<string>Tall-, dato- og tidsformater</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>penger</string>
+				<key>title</key>
+				<string>Velge valuta</string>
+			</dict>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliserbare indeksord</string>
+				<key>index</key>
+				<string>Internett, internettjenester, nettjenester, mail, e-post, kontakter, Twitter, sosiale nettverk</string>
+				<key>title</key>
+				<string>Region for internettjenester</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
