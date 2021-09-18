@@ -9,11 +9,11 @@
 	<key>181.title</key>
 	<string>Område:</string>
 	<key>187.title</key>
-	<string>Første dag i uken:</string>
+	<string>Fyrste dag i veken:</string>
 	<key>193.title</key>
-	<string>Foretrukne språk:</string>
+	<string>Føretrekte språk:</string>
 	<key>21.title</key>
-	<string>Språk og region-valgpanelet angir hvilket språk som brukes i menyer og dialoger, og formatet som brukes for dato, tid og valuta.</string>
+	<string>Språk og region-valgpanelet angjev kva språk som bruka i menyar og dialoger, og formatet som bruka for dato, tid og valuta.</string>
 	<key>2634.title</key>
 	<string>Avansert…</string>
 	<key>2672.title</key>
@@ -23,35 +23,35 @@
 	<key>2710.title</key>
 	<string>Kalender:</string>
 	<key>380.title</key>
-	<string>Sorteringsrekkefølge:</string>
+	<string>Sorteringsrekkjefølgje:</string>
 	<key>4.ibExternalAccessibilityDescription</key>
 	<string>Språk og region</string>
 	<key>50.title</key>
 	<string>&lt;&lt; do not localize &gt;&gt;</string>
 	<key>583.title</key>
-	<string>Tastatur-valgpanelet…</string>
+	<string>Tastatur-valpanelet…</string>
 	<key>ATu-Lt-ShX.title</key>
 	<string>Tall:</string>
 	<key>HMb-oP-ugd.title</key>
 	<string>$4 567,89</string>
 	<key>J0C-tR-dY3.title</key>
-	<string>Bruk på påloggingsvindu</string>
+	<string>Bruk på påloggingsvindauge</string>
 	<key>Q5f-j8-x20.title</key>
 	<string>07.01.12 kl. 00.34</string>
 	<key>RkR-Zl-i2o.title</key>
-	<string>Tilpass språkinnstillinger for programmene nedenfor:</string>
+	<string>Tilpass språkinnstillingar for programma nedanfor:</string>
 	<key>Sa3-yL-FdQ.title</key>
 	<string>Program</string>
 	<key>UMQ-dH-xDI.title</key>
-	<string>Box</string>
+	<string>Boks</string>
 	<key>Xxs-pe-Fbe.title</key>
-	<string>Lørdag 5. januar 2013 kl. 15.45.56 GMT–11</string>
+	<string>Laurdag 5. januar 2013 kl. 15.45.56 GMT–11</string>
 	<key>aEs-cJ-P64.title</key>
 	<string>&lt;&lt; do not localize &gt;&gt;</string>
 	<key>ceE-ph-jBN.title</key>
 	<string>Text Cell</string>
 	<key>dWi-3r-44N.label</key>
-	<string>Programmer</string>
+	<string>Program</string>
 	<key>ieK-Uk-5hT.title</key>
 	<string>1 234,56</string>
 	<key>kZa-0O-Q9S.title</key>
