@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.title</key>
+	<string>Legg til inndatakjelde</string>
+	<key>120.ibExternalAccessibilityDescription</key>
+	<string>Inndatakjelder for valt språk</string>
+	<key>125.title</key>
+	<string>Text Cell</string>
+	<key>137.title</key>
+	<string>Lokalisert IM-namn</string>
+	<key>204.title</key>
+	<string>Tastaturoppsett ikkje tilgjengeleg</string>
+	<key>23.title</key>
+	<string>Legg til inndatakjelder</string>
+	<key>27.title</key>
+	<string>Ikkje no</string>
+	<key>6.title</key>
+	<string>Vel inndatakjelder du vil legg til:</string>
+</dict>
+</plist>

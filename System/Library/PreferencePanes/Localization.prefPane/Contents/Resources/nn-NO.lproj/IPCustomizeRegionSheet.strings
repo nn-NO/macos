@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1.title</key>
+	<string>Tilpass region</string>
+	<key>10.title</key>
+	<string>OK</string>
+	<key>1040.title</key>
+	<string>Valuta:</string>
+	<key>105.title</key>
+	<string>Skiljeteikn for tal:</string>
+	<key>1451.title</key>
+	<string>Gjenopprett standardinnstillingar</string>
+	<key>1486.title</key>
+	<string>OtherViews</string>
+	<key>1823.title</key>
+	<string>Skriv inn tekst og flytt datoelement for å oppretta eit tilpassa format.</string>
+	<key>1857.title</key>
+	<string>Kort:</string>
+	<key>1863.title</key>
+	<string>Middels:</string>
+	<key>1869.title</key>
+	<string>Langt:</string>
+	<key>1875.title</key>
+	<string>Fullstendig:</string>
+	<key>1884.title</key>
+	<string>Datoelement</string>
+	<key>1892.title</key>
+	<string>Vekedag</string>
+	<key>1900.title</key>
+	<string>La.</string>
+	<key>1906.title</key>
+	<string>Dag i året</string>
+	<key>1965.title</key>
+	<string>5</string>
+	<key>1984.title</key>
+	<string>Veke i året</string>
+	<key>1985.title</key>
+	<string>1</string>
+	<key>1987.title</key>
+	<string>Januar</string>
+	<key>1988.title</key>
+	<string>Månad</string>
+	<key>2017.title</key>
+	<string>Veke i månaden</string>
+	<key>2018.title</key>
+	<string>1</string>
+	<key>2019.title</key>
+	<string>5</string>
+	<key>2020.title</key>
+	<string>Dag i månaden</string>
+	<key>2052.title</key>
+	<string>Vekedag i månaden</string>
+	<key>2053.title</key>
+	<string>1</string>
+	<key>2054.title</key>
+	<string>2013</string>
+	<key>2055.title</key>
+	<string>År</string>
+	<key>2076.title</key>
+	<string>Kvartal</string>
+	<key>2077.title</key>
+	<string>1</string>
+	<key>2078.title</key>
+	<string>AD</string>
+	<key>2079.title</key>
+	<string>Æra</string>
+	<key>2259.title</key>
+	<string>Tidselement</string>
+	<key>2325.title</key>
+	<string>Time</string>
+	<key>2327.title</key>
+	<string>7</string>
+	<key>2328.title</key>
+	<string>PM</string>
+	<key>2329.title</key>
+	<string>Minutt</string>
+	<key>2330.title</key>
+	<string>08</string>
+	<key>2331.title</key>
+	<string>GMT+8</string>
+	<key>2332.title</key>
+	<string>Sekund</string>
+	<key>2333.title</key>
+	<string>09</string>
+	<key>2334.title</key>
+	<string>000</string>
+	<key>2342.title</key>
+	<string>Millisekundar</string>
+	<key>2343.title</key>
+	<string>Tidssone</string>
+	<key>2344.title</key>
+	<string>AM/PM</string>
+	<key>2347.title</key>
+	<string>Fullstendig:</string>
+	<key>2349.title</key>
+	<string>Langt:</string>
+	<key>2351.title</key>
+	<string>Middels:</string>
+	<key>2354.title</key>
+	<string>Kort:</string>
+	<key>2355.title</key>
+	<string>Skriv inn tekst og flytt datoelement for å oppretta eit tilpassa format.</string>
+	<key>2605.title</key>
+	<string>Før 12:</string>
+	<key>2611.title</key>
+	<string>Etter 12:</string>
+	<key>2618.title</key>
+	<string>AM</string>
+	<key>2627.title</key>
+	<string>PM</string>
+	<key>2xz-wz-TUD.title</key>
+	<string>$4 567,89</string>
+	<key>413.title</key>
+	<string>OtherViews</string>
+	<key>416.title</key>
+	<string>Måleininger:</string>
+	<key>4Kd-Ie-zK8.title</key>
+	<string>Laurdag 5. januar 2013 kl. 15.45.56 GMT–11</string>
+	<key>713.label</key>
+	<string>Generelt</string>
+	<key>714.label</key>
+	<string>Datoar</string>
+	<key>723.label</key>
+	<string>Klokkeslett</string>
+	<key>875.title</key>
+	<string>Tusen:</string>
+	<key>879.title</key>
+	<string>Desimal:</string>
+	<key>9.title</key>
+	<string>Avbryt</string>
+	<key>945.ibExternalAccessibilityDescription</key>
+	<string>Desimalskiljeteikn for tall</string>
+	<key>946.title</key>
+	<string>.</string>
+	<key>972.ibExternalAccessibilityDescription</key>
+	<string>Tusenskiljeteikn for tall</string>
+	<key>974.title</key>
+	<string>,</string>
+	<key>992.ibExternalAccessibilityDescription</key>
+	<string>Desimalskiljeteikn for valuta</string>
+	<key>993.ibExternalAccessibilityDescription</key>
+	<string>Tusenskiljeteikn for valuta</string>
+	<key>994.title</key>
+	<string>,</string>
+	<key>997.title</key>
+	<string>.</string>
+	<key>998.title</key>
+	<string>Desimal:</string>
+	<key>999.title</key>
+	<string>Tusen:</string>
+	<key>adS-UV-do7.title</key>
+	<string>07.01.12 kl. 00.34</string>
+	<key>aqO-0s-1ym.title</key>
+	<string>1 234,56</string>
+	<key>qd1-yv-kdj.title</key>
+	<string>DNT</string>
+</dict>
+</plist>
