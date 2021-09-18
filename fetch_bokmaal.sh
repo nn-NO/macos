@@ -9,7 +9,6 @@ rsync \
     "/System/Applications" \
     "/System/Library" \
     "$CWD/System"
-find "$CWD" \
+find "$CWD/System" \
     -name "*.strings" \
-    -path "*/no.lproj/*" \
     -exec plutil -convert xml1 "{}" \;
